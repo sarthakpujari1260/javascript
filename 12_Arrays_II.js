@@ -3,7 +3,7 @@ const DCheroes = ["superman","batman","flash"]
 
 //concat joins two or more arrays
 const superheroes = marvelheores.concat(DCheroes)
-//console.log(superheroes);
+//console.log(superheroes); 
 
 
 
