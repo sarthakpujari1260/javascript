@@ -20,7 +20,7 @@ console.log(Array.isArray("sarthak"));
 console.log(Array.from('SARTHAK'));
 
 
-let score1 =90
+let score1 =900
 let score2 = 30
 let score3 = 50
 //converting differnt elements in form of an array
