@@ -39,4 +39,15 @@ else{
     console.log(`${username} just logged in.` );   
 }
 }
-console.log(loginmessage("SARTHAK"));
+//console.log(loginmessage("SARTHAK"));
+
+
+
+
+// ...num1 => REST OPERATOR
+
+function calculateCartPrice(...num1){
+return num1
+}
+
+console.log(calculateCartPrice(2 ,4, 6,8));
