@@ -58,5 +58,9 @@ const mac = [
     }
 ]
 
-console.log(mac[1].name);  // Syntax to get info from objects in an Array.
+//console.log(mac[1].name);  // Syntax to get info from objects in an Array.
+
+//console.log(Tinder);
+//console.log(Object.keys(Tinder ));
+
 
