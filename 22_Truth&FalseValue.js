@@ -10,5 +10,4 @@ if (userEmail) {
 // FALSY VALUES : false , 0 , null , undefined , empty string "" , NAN (not a number)
 // TRUTHY VALUES :  "0" , 'false' , " " , [] , {} , function(){}
 
-gg
- hellow world
+
