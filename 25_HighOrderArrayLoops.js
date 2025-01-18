@@ -25,7 +25,7 @@ const maps = new Map ()
  
 maps.set("GAME 1" , "GTA")
 maps.set("GAME 2" , "NFS")
-maps.set("GAME 3" , "VALO")
+maps.set("GAME 3" , "COD")
 maps.set("GAME 4" , "GOW")
 maps.set("GAME 1" , "GTA")
 
